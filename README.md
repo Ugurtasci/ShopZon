@@ -11,4 +11,5 @@ Bu proje, React ile geliştirilmiş bir e-ticaret uygulamasıdır. Redux Toolkit
 * Bu proje, modern web geliştirme tekniklerinin kullanıldığı ve Redux Toolkit gibi etkili araçların tercih edildiği bir örnek uygulamadır.
 
 <h3>Ekran Görüntüsü</h3>
-# ShopZon
+
+![ekrangifi](https://github.com/Ugurtasci/ShopZon/assets/146867143/4ded5951-eb64-4e99-b2c1-ee51dd330a9b)
